@@ -1,0 +1,11 @@
+E:\Dina's_BetaMart\bin\Debug\db_barang.accdb
+E:\Dina's_BetaMart\bin\Debug\Dina's_BetaMart.exe.config
+E:\Dina's_BetaMart\bin\Debug\Dina's_BetaMart.exe
+E:\Dina's_BetaMart\bin\Debug\Dina's_BetaMart.pdb
+E:\Dina's_BetaMart\obj\Debug\Dina's_BetaMart.csprojAssemblyReference.cache
+E:\Dina's_BetaMart\obj\Debug\Dina_s_BetaMart.Form1.resources
+E:\Dina's_BetaMart\obj\Debug\Dina_s_BetaMart.Properties.Resources.resources
+E:\Dina's_BetaMart\obj\Debug\Dina's_BetaMart.csproj.GenerateResource.cache
+E:\Dina's_BetaMart\obj\Debug\Dina's_BetaMart.csproj.CoreCompileInputs.cache
+E:\Dina's_BetaMart\obj\Debug\Dina's_BetaMart.exe
+E:\Dina's_BetaMart\obj\Debug\Dina's_BetaMart.pdb
